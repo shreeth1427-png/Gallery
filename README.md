@@ -23,7 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
-'''
+```
 gallary.html
 <!DOCTYPE html>
 <html>
@@ -139,7 +139,7 @@ popup.addEventListener('click', e => {
   <script src="script.js"></script>
 </body>
 </html>
-'''
+```
 # OUTPUT:
 <img width="1898" height="977" alt="image" src="https://github.com/user-attachments/assets/99169ef7-b540-446c-9869-270514fce39e" />
 
